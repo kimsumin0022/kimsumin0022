@@ -1,4 +1,4 @@
-## OSS 수업 관련 👋
+## kimsumin  👋
 
 <!--
 **kimsumin0022/kimsumin0022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
